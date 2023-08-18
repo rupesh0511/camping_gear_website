@@ -16,7 +16,7 @@ hosted link-  https://rupesh0511.github.io/camping_gear_website/
 ![Screenshot 2023-08-18 111839](https://github.com/rupesh0511/camping_gear_website/assets/69234169/c6663e80-e36f-4263-bdc9-0753d55dee2a)
 ![Screenshot 2023-08-18 111847](https://github.com/rupesh0511/camping_gear_website/assets/69234169/c79c9557-b3e1-4523-a2df-0123c9a042ea)
 
-basically i have created the navbar div in that i have used input tag and ul tag to write the contents , then after that divided the page into three different section div tags then after that i also used h1 tag ,p tags ul tags for writing
+basically i have created the navbar div in that i have used input tag and ul tag to write the contents , then after that divided the page into four different section div tags then after that i also used h1 tag ,p tags ul tags for writing
 all the contents within those section divs.
 and as for css part we have imported font family for exact font,and after that we have used selectors for all the classes and tags and used various css properties
 like background color, height, width, color, position, margin ,padding , and flex properties , border radius ,tansition .and media layouts to make it as similar as possible. 
