@@ -19,4 +19,4 @@ hosted link-  https://rupesh0511.github.io/camping_gear_website/
 basically i have created the navbar div in that i have used input tag and ul tag to write the contents , then after that divided the page into four different section div tags then after that i also used h1 tag ,p tags ul tags for writing
 all the contents within those section divs.
 and as for css part we have imported font family for exact font,and after that we have used selectors for all the classes and tags and used various css properties
-like background color, height, width, color, position, margin ,padding , and flex properties , border radius ,tansition .and media layouts to make it as similar as possible. 
+like background color,color, height, width, color, position, margin ,padding ,content, and flex properties like display flex,align-items,justify content, border radius ,tansition .and media layouts,z index,back-ground size,background position ,background  to make it as similar as possible. 
